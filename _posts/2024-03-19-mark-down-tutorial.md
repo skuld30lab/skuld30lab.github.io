@@ -39,5 +39,5 @@ sudo apt-get install nanum
 
 ## images
 
-![alt text](test_image.png)
+![images](test_image-1.png)
 
