@@ -38,5 +38,4 @@ sudo apt-get install nanum
 [daum-link]: https://www.daum.net/
 
 ## images
-![이미지](/images/test_image.png
-)
+![이미지](/images/test_image.png)
